@@ -3,7 +3,9 @@
 **Author: Pedro Yáñez Meléndez**  
 
 This repository shows a small sample of the work I did with AWS Athena, S3 and QuickSight.  
+
 Here I include one Athena SQL query and the graph that uses this query.
+
 All the data shown in this sample is anonymized, and the names of tables, fields, charts, etc. have been replaced with fictitious ones.
 
 ## Background
