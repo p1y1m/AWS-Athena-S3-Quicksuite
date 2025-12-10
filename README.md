@@ -1,6 +1,6 @@
 # AWS Athena S3 Quicksuite – Panel Example
 
-**Author: Pedro Yáñez Meléndez**  
+**Author: Pedro Yanez Melendez**  
 
 This repository shows a small sample of the work I did with AWS Athena, S3 and QuickSight.  
 
